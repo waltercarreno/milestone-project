@@ -1,0 +1,14 @@
+header {
+    margin-top:10%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+/* The hero image */
+.logo {
+    background: url("../images/dumbbell-1966704_1280.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
